@@ -1,0 +1,26 @@
+.Form{
+width: 100%;
+display: flex;
+justify-content:center;
+     >form{
+background-color: lightgray;
+border-radius: 10px;
+        display: flex;
+        flex-direction: column;
+
+            label{
+                display: flex;
+justify-content: space-between;
+max-width: 350px;
+                margin: 10px;
+
+    }
+.File{
+   
+}
+   }
+.buttonPart{
+    display: flex;
+    justify-content: center;
+}
+}
